@@ -1,5 +1,5 @@
-* Ice cream
-* cats
-* adventures
-  * spontanious
-* confusion
+*  Ice cream
+*  cats
+*  adventures
+  *  spontanious
+*  confusion
